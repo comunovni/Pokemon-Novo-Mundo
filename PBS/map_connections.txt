@@ -1,0 +1,96 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lavender Town (3) - Route 8 (25)
+3,West,0,25,East,0
+# Route 12 (32) - Lavender Town (3)
+32,North,0,3,South,0
+# Route 10 (63) - Lavender Town (3)
+63,South,0,3,North,0
+# Celadon City (4) - Route 16 (37)
+4,West,2,37,East,0
+# Route 7 (24) - Celadon City (4)
+24,West,0,4,East,2
+# Fuchsia City (5) - Route 19 (40)
+5,South,10,40,North,0
+# Route 18 (39) - Fuchsia City (5)
+39,East,0,5,West,11
+# Fuchsia Lake (35) - Fuchsia City (5)
+35,South,0,5,North,0
+# Route 15 (36) - Fuchsia City (5)
+36,West,0,5,East,0
+# Cinnabar Island (7) - Route 21 (48)
+7,North,38,48,South,0
+# Route 20 (42) - Cinnabar Island (7)
+42,West,0,7,East,1
+# Route 1 (10) - Pallet Town (55)
+10,South,0,55,North,1
+# Viridian City (56) - Route 1 (10)
+56,South,4,10,North,0
+# Route 2 (11) - Viridian City (56)
+11,South,2,56,North,0
+# Pewter City (57) - Route 3 (16)
+57,East,6,16,West,0
+# Route 2 (70) - Route 3 (16)
+70,North,50,16,South,0
+# Route 3 (60) - Route 3 (16)
+60,South,0,16,North,46
+# Route 6 (23) - Vermilion City (59)
+23,South,0,59,North,1
+# Route 12 (32) - Route 8 (25)
+32,West,0,25,East,29
+# Route 10 (63) - Route 8 (25)
+63,West,34,25,East,0
+# Vermilion City (28) - Vermilion City (59)
+28,North,0,59,South,0
+# Route 14 (34) - Route 12 (32)
+34,North,78,32,South,0
+# Route 13 (33) - Route 12 (32)
+33,North,46,32,South,0
+# Route 13 (33) - Route 14 (34)
+33,West,0,34,East,0
+# Route 14 (34) - Route 15 (36)
+34,West,22,36,East,0
+# Fuchsia Lake (35) - Route 18 (39)
+35,West,49,39,East,0
+# Route 15 (36) - Fuchsia Lake (35)
+36,West,0,35,East,38
+# Route 15 (36) - Route 19 (40)
+36,West,46,40,East,0
+# Route 16 (37) - Route 17 (38)
+37,South,0,38,North,1
+# Route 17 (38) - Route 18 (39)
+38,South,0,39,North,0
+# Route 18 (39) - Route 21 (48)
+39,South,0,48,North,83
+# Route 19 (40) - Route 20 (42)
+40,West,104,42,East,0
+# Route 19 (41) - Route 19 (40)
+41,North,0,40,South,0
+# Route 19 (41) - Route 20 (42)
+41,West,9,42,East,0
+# Route 20 (42) - Route 21 (48)
+42,West,0,48,East,101
+# Route 21 (48) - Pallet Town (55)
+48,North,0,55,South,1
+# Route 22 (49) - Viridian City (56)
+49,East,0,56,West,2
+# Route 2 (70) - Pewter City (57)
+70,North,0,57,South,8
+# Cerulean City (58) - Route 4 (17)
+58,West,0,17,East,0
+# Route 5 (22) - Route 4 (17)
+22,West,0,17,East,40
+# Route 24 (51) - Route 4 (17)
+51,West,50,17,East,0
+# Route 5 (22) - Cerulean City (58)
+22,North,0,58,South,0
+# Route 9 (26) - Cerulean City (58)
+26,West,0,58,East,2
+# Route 24 (51) - Cerulean City (58)
+51,South,0,58,North,0
+# Route 9 (26) - Route 5 (22)
+26,West,38,22,East,0
+# Route 10 (27) - Route 9 (26)
+27,West,0,26,East,0
+# Route 25 (52) - Route 24 (51)
+52,West,0,51,East,0
